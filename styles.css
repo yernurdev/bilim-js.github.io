@@ -596,6 +596,10 @@
   transition: 0.3s ease-out;
 }
 
+.footer__logo{
+  padding-right: 10px;
+}
+
 /* Social Icons */
 .social__icon--link {
   color: #fff;
